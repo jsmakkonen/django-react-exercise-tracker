@@ -23,7 +23,7 @@ venv/bin/activate
 
 # Install requirements using pip.
 
-pip install
+pip install -r requirements.txt
 
 # Install React dependencies
 
