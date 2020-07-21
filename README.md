@@ -9,9 +9,6 @@ App contains a table where activity, duration and user are shown. New activities
 # Quick start
 
 ```
-# First create Python virtual environment
-
-python -m venv venv
 
 # Activate virtual environment
 
